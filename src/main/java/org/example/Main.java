@@ -2,7 +2,6 @@ package org.example;
 
 import org.example.MenuItem;
 import org.example.MenuItemType;
-import org.w3c.dom.ls.LSOutput;
 
 public class Main {
     public static void main(String[] args) {
